@@ -24,4 +24,4 @@ https://github.com/Souhardyagayen99/issue_tracker
 
 # Hosted URL
 
-
+https://issue-tracker-xoc1.onrender.com
