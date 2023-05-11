@@ -8,6 +8,9 @@ Run this command in your GitHub CLI
 
 https://github.com/Souhardyagayen99/issue_tracker
 
+# How to Run
+npm install <br>
+npm start or node index.js or nodemon index.js
 
 # Features
 
